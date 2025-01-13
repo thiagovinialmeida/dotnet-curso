@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex09\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|solutionrelative:entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex09\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|solutionrelative:entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex09\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB022D5-7679-4DB8-BABE-BC3265DD2B6A}|Ex09.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:05:53.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:05:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:05:26.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex09\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:03:02.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

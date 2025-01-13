@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\bin\Debug\net8.0\ListaTeste.exe
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\bin\Debug\net8.0\ListaTeste.deps.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\bin\Debug\net8.0\ListaTeste.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\bin\Debug\net8.0\ListaTeste.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\bin\Debug\net8.0\ListaTeste.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\refint\ListaTeste.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ListaTeste.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\ListaTeste\obj\Debug\net8.0\ref\ListaTeste.dll

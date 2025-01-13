@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\bin\Debug\net8.0\HeritageTest.exe
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\bin\Debug\net8.0\HeritageTest.deps.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\bin\Debug\net8.0\HeritageTest.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\bin\Debug\net8.0\HeritageTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\bin\Debug\net8.0\HeritageTest.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\refint\HeritageTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\HeritageTest.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\HeritageTest\obj\Debug\net8.0\ref\HeritageTest.dll

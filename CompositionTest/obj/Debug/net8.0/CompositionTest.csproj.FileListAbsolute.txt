@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\bin\Debug\net8.0\CompositionTest.exe
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\bin\Debug\net8.0\CompositionTest.deps.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\bin\Debug\net8.0\CompositionTest.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\bin\Debug\net8.0\CompositionTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\bin\Debug\net8.0\CompositionTest.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\refint\CompositionTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\CompositionTest.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\CompositionTest\obj\Debug\net8.0\ref\CompositionTest.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex10\\entities\\taxpayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|solutionrelative:entities\\taxpayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex10\\entities\\legalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|solutionrelative:entities\\legalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex10\\entities\\naturalperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B426ED-1040-428D-9419-F8DABCD0F934}|Ex10.csproj|solutionrelative:entities\\naturalperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LegalEntity.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Entities\\LegalEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\LegalEntity.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Entities\\LegalEntity.cs",
+              "RelativeToolTip": "Entities\\LegalEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:29:58.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NaturalPerson.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Entities\\NaturalPerson.cs",
+              "RelativeDocumentMoniker": "Entities\\NaturalPerson.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Entities\\NaturalPerson.cs",
+              "RelativeToolTip": "Entities\\NaturalPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:29:37.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taxpayers.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Entities\\Taxpayers.cs",
+              "RelativeDocumentMoniker": "Entities\\Taxpayers.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Entities\\Taxpayers.cs",
+              "RelativeToolTip": "Entities\\Taxpayers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:28:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:24:07.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

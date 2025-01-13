@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD669B-0D7A-45CE-909A-508501388C0A}|Ex06.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD669B-0D7A-45CE-909A-508501388C0A}|Ex06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD669B-0D7A-45CE-909A-508501388C0A}|Ex06.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex06\\entites\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD669B-0D7A-45CE-909A-508501388C0A}|Ex06.csproj|solutionrelative:entites\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBD669B-0D7A-45CE-909A-508501388C0A}|Ex06.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex06\\entites\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBD669B-0D7A-45CE-909A-508501388C0A}|Ex06.csproj|solutionrelative:entites\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\Entites\\Post.cs",
+              "RelativeDocumentMoniker": "Entites\\Post.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\Entites\\Post.cs",
+              "RelativeToolTip": "Entites\\Post.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:20:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\Entites\\Comment.cs",
+              "RelativeDocumentMoniker": "Entites\\Comment.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\Entites\\Comment.cs",
+              "RelativeToolTip": "Entites\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:18:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex06\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:15:51.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

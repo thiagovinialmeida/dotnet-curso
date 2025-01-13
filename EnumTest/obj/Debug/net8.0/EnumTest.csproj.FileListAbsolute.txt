@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\bin\Debug\net8.0\EnumTest.exe
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\bin\Debug\net8.0\EnumTest.deps.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\bin\Debug\net8.0\EnumTest.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\bin\Debug\net8.0\EnumTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\bin\Debug\net8.0\EnumTest.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\refint\EnumTest.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\EnumTest.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\EnumTest\obj\Debug\net8.0\ref\EnumTest.dll

@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\bin\Debug\net9.0\sorteio.exe
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\bin\Debug\net9.0\sorteio.deps.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\bin\Debug\net9.0\sorteio.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\bin\Debug\net9.0\sorteio.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\bin\Debug\net9.0\sorteio.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\refint\sorteio.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\sorteio.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\sorteio\App\obj\Debug\net9.0\ref\sorteio.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD45221-810A-4D4A-81A5-2EBE7C9CA26F}|Ex08.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD45221-810A-4D4A-81A5-2EBE7C9CA26F}|Ex08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD45221-810A-4D4A-81A5-2EBE7C9CA26F}|Ex08.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex08\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD45221-810A-4D4A-81A5-2EBE7C9CA26F}|Ex08.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD45221-810A-4D4A-81A5-2EBE7C9CA26F}|Ex08.csproj|c:\\users\\samsung\\documents\\dev\\csharp-b\\exercicios-curso\\ex08\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD45221-810A-4D4A-81A5-2EBE7C9CA26F}|Ex08.csproj|solutionrelative:entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:48:24.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:48:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Documents\\dev\\csharp-b\\exercicios-curso\\Ex08\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T21:46:41.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

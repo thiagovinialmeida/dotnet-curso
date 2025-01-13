@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\bin\Debug\net8.0\TestesEspeciais.exe
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\bin\Debug\net8.0\TestesEspeciais.deps.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\bin\Debug\net8.0\TestesEspeciais.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\bin\Debug\net8.0\TestesEspeciais.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\bin\Debug\net8.0\TestesEspeciais.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\refint\TestesEspeciais.dll
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.pdb
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\TestesEspeciais.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\csharp-b\TestesEspeciais\obj\Debug\net8.0\ref\TestesEspeciais.dll
