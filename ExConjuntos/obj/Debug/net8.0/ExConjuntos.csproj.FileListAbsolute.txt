@@ -1,0 +1,15 @@
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\bin\Debug\net8.0\ExConjuntos.exe
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\bin\Debug\net8.0\ExConjuntos.deps.json
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\bin\Debug\net8.0\ExConjuntos.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\bin\Debug\net8.0\ExConjuntos.dll
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\bin\Debug\net8.0\ExConjuntos.pdb
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.sourcelink.json
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.dll
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\refint\ExConjuntos.dll
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.pdb
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ExConjuntos.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\ExConjuntos\obj\Debug\net8.0\ref\ExConjuntos.dll

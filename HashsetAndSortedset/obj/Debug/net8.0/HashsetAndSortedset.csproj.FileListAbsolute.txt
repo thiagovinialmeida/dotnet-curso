@@ -1,0 +1,15 @@
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\bin\Debug\net8.0\HashsetAndSortedset.exe
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\bin\Debug\net8.0\HashsetAndSortedset.deps.json
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\bin\Debug\net8.0\HashsetAndSortedset.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\bin\Debug\net8.0\HashsetAndSortedset.dll
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\bin\Debug\net8.0\HashsetAndSortedset.pdb
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.sourcelink.json
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.dll
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\refint\HashsetAndSortedset.dll
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.pdb
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\HashsetAndSortedset.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\dev\dotnet-curso\HashsetAndSortedset\obj\Debug\net8.0\ref\HashsetAndSortedset.dll
